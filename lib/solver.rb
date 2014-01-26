@@ -1,3 +1,5 @@
+require 'log4r'
+
 require "solver/version"
 require "solver/logger"
 require "solver/board"
